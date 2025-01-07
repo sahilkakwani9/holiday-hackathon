@@ -12,7 +12,7 @@ Hunch is a social trading platform connecting people who spot viral content earl
 
 ### For Curators
 
-![image](https://github.com/user-attachments/assets/26741ed3-db99-4f6f-8ede-9a85bc364984)
+![image](https://github.com/user-attachments/assets/9e560a26-edb8-41e6-960a-80d33802d5fe)
 
 If you're good at spotting viral posts before they blow up:
 
@@ -59,7 +59,6 @@ Built during Lens Holiday Hackathon by Sarthak & Sahil
 - https://youtu.be/6rVIG8WlEOg
 
 ## Screenshots
-![photo1](https://github.com/user-attachments/assets/9e560a26-edb8-41e6-960a-80d33802d5fe)
 ![photo2](https://github.com/user-attachments/assets/e6f3ab9b-1f7d-4131-b5eb-7737c6b06c25)
 ![photo3](https://github.com/user-attachments/assets/0547195e-8797-49ec-85a3-c361b048c83f)
 ![photo4](https://github.com/user-attachments/assets/12e71590-1a71-443f-afe4-8734e1d71eae)
